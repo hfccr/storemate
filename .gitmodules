@@ -1,0 +1,6 @@
+[submodule "storemate-frontend"]
+	path = storemate-frontend
+	url = https://github.com/hfccr/storemate-frontend
+[submodule "storemate-backend"]
+	path = storemate-backend
+	url = https://github.com/hfccr/storemate-backend
